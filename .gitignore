@@ -1,0 +1,21 @@
+# .NET
+bin/
+obj/
+.vs/
+*.user
+*.pubxml
+PublishProfiles/
+appsettings.*.local.json
+
+# Node / Expo
+node_modules/
+.expo/
+dist/
+
+# Data (keep raw police data out of the repo)
+*.xlsx
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
