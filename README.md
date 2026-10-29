@@ -419,6 +419,6 @@ Final Year Project **F24-190**, FAST School of Computing, National University of
 - Muhammad Nohail
 - Hasnain Raza
 
-**My contribution:** _<describe the parts you personally built, e.g. backend API, PostGIS schema, route scoring, mobile screens>_
+
 
 **Data sources:** Sindh Police (South Zone) for jurisdiction references and historical crime data; OpenStreetMap contributors for base maps and geocoding; GraphHopper for routing.
